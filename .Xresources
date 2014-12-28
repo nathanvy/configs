@@ -1,0 +1,14 @@
+URxvt*.transparent: true
+URxvt*.shading: 20
+URxvt*.scrollBar: false
+URxvt.font: xft:DejaVu Sans Mono:size=10
+URxvt.boldFont:
+URxvt.background: #000000
+URxvt.foreground: #EBEBFF
+
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+Xft.lcdfilter:	lcddefault
